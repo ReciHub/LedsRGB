@@ -1,0 +1,2 @@
+ligarTodos	KEYWORD2
+desligarTodos	KEYWORD2
