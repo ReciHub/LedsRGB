@@ -3,4 +3,4 @@ Biblioteca de exemplo utilizada no workshop: "Construindo e submetendo sua próp
 
 ## Slides
 ### CPBA2
-[bit.ly/CPBA2-ARDUINO](bit.ly/CPBA2-ARDUINO)
+[LINK PARA OS SLIDES](http://bit.ly/cpbabiblioteca)
